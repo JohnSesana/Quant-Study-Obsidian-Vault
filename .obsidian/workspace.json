@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "159bb078fc83af0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "56d3b13fad4027bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd98c6b705a52f91",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fdd27eba61765c2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "99b9c8cb045a2477",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be985c1ac8d28034",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "69216d7a5f1dc4f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a22cf561eb2d1a2b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d46e9c7c675391dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "422fb06d9a2b2949",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "776348157baac473",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a646915aa1cb0c90",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "086998110b44caed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a64e01c4cc823a65",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          },
+          {
+            "id": "75d420728ee4bbef",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "73b0475e004b6092",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "de4104164e7be7af",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "1dd70c457d7903ab",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "f302fde322dabd1c",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "fd98c6b705a52f91",
+  "lastOpenFiles": [
+    "About being alone....md",
+    "01 - Math/Krita/01 - Functions and Graphs/Practice questions.kra-autosave.kra",
+    "01 - Math/Krita/01 - Functions and Graphs/Practice questions.kra~",
+    "01 - Math/Krita/01 - Functions and Graphs/Practice questions.kra",
+    "01 - Math/Krita/01 - Functions and Graphs",
+    "01 - Math/Krita/New folder",
+    "01 - Math/Krita",
+    "01 - Math/New folder",
+    "05 - C++/C++ Topics to Learn.md",
+    "01 - Math/Topics to Focus on Spivak's Calculus Book.md",
+    "01 - Math/Evaluating Functions.md",
+    "01 - Math/01 -Hand Written Notes/Evaluating Functions.xopp",
+    "01 - Math/01 -Hand Written Notes/-Note-14-03.xopp",
+    "01 - Math/01 -Hand Written Notes/desktop.ini",
+    "01 - Math/Untitled.canvas",
+    "04 - CS/Untitled.md",
+    "02 - Stats/Untitled.md",
+    "03 - Finance/Untitled.md",
+    "06 - Python/Python Topics to Learn.md",
+    "08 - Weekly Reviews/Untitled 1.md",
+    "Utils/Templates/Weekly Review.md",
+    "08 - Weekly Reviews/Untitled.md",
+    "07 - Anki Flashcards/Untitled.md",
+    "Utils/Templates/Anki Template.md",
+    "Utils/Templates/C++ Template.md",
+    "Utils/Templates/Python Template.md",
+    "Utils/Templates/CS Template.md",
+    "Utils/Templates/Finance Template.md",
+    "Utils/Templates/Stats Template.md",
+    "Utils/Templates/Math Template.md",
+    "Welcome.md",
+    "asd.md"
+  ]
+}

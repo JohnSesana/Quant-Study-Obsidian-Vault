@@ -1,0 +1,66 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Utils/Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "01 - Math",
+      "template": "Utils/Templates/Math Template.md"
+    },
+    {
+      "folder": "02 - Stats",
+      "template": "Utils/Templates/Stats Template.md"
+    },
+    {
+      "folder": "03 - Finance",
+      "template": "Utils/Templates/Finance Template.md"
+    },
+    {
+      "folder": "04 - CS",
+      "template": "Utils/Templates/CS Template.md"
+    },
+    {
+      "folder": "05 - C++",
+      "template": "Utils/Templates/C++ Template.md"
+    },
+    {
+      "folder": "06 - Python",
+      "template": "Utils/Templates/Python Template.md"
+    },
+    {
+      "folder": "07 - Anki Flashcards",
+      "template": "Utils/Templates/Anki Template.md"
+    },
+    {
+      "folder": "08 - Weekly Reviews",
+      "template": "Utils/Templates/Weekly Review.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1
+}
