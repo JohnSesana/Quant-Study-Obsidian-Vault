@@ -199,6 +199,16 @@
             "id": "d20993da65037937",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "5834bc49f09cb0e2",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -206,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -227,7 +237,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "fd98c6b705a52f91",
+  "active": "5834bc49f09cb0e2",
   "lastOpenFiles": [
     "01 - Math/Krita/01 - Functions and Graphs/Practice questions.kra-autosave.kra",
     "About being alone....md",
