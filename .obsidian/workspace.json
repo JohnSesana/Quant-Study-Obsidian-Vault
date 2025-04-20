@@ -11,10 +11,14 @@
             "id": "fd98c6b705a52f91",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 - Math/Topics to Focus on Spivak's Calculus Book.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Topics to Focus on Spivak's Calculus Book"
             }
           }
         ]
@@ -209,6 +213,16 @@
             "id": "5834bc49f09cb0e2",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "f12c2a40e2c0f3cb",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -216,7 +230,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -237,22 +251,29 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "5834bc49f09cb0e2",
+  "active": "be985c1ac8d28034",
   "lastOpenFiles": [
-    "01 - Math/Krita/01 - Functions and Graphs/Practice questions.kra-autosave.kra",
+    "New folder",
+    "01 - Math/02 - Factors & Divisibility",
+    "01 - Math/01 - Functions and Graphs/06 - Piecewise Functions Graphs.jpg~.jpg",
+    "01 - Math/01 - Functions and Graphs/05 - Piecewise Functions.jpg",
+    "01 - Math/01 - Functions and Graphs/04 - Composite Functions.jpg",
+    "01 - Math/01 - Functions and Graphs/03 - Composing Functions.jpg",
+    "01 - Math/01 - Functions and Graphs/02 - Composing Functions.jpg",
+    "01 - Math/01 - Functions and Graphs/01 - Functions and Graphs.jpg",
+    "01 - Math/01 - Functions and Graphs/Practice questions.kra-autosave.kra",
     "About being alone....md",
-    "01 - Math/Krita/01 - Functions and Graphs/Practice questions.kra~",
-    "01 - Math/Krita/01 - Functions and Graphs/Practice questions.kra",
-    "01 - Math/Krita/01 - Functions and Graphs",
+    "01 - Math/01 - Functions and Graphs/Practice questions.kra~",
+    "01 - Math/01 - Functions and Graphs/Practice questions.kra",
+    "01 - Math/01 - Functions and Graphs",
     "01 - Math/Krita/New folder",
-    "01 - Math/Krita",
+    "Krita",
     "01 - Math/New folder",
     "05 - C++/C++ Topics to Learn.md",
     "01 - Math/Topics to Focus on Spivak's Calculus Book.md",
     "01 - Math/Evaluating Functions.md",
     "01 - Math/01 -Hand Written Notes/Evaluating Functions.xopp",
     "01 - Math/01 -Hand Written Notes/-Note-14-03.xopp",
-    "01 - Math/01 -Hand Written Notes/desktop.ini",
     "01 - Math/Untitled.canvas",
     "04 - CS/Untitled.md",
     "02 - Stats/Untitled.md",
