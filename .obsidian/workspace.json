@@ -233,6 +233,16 @@
             "id": "9731ed894c0b43a6",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "0a5a99168715f78c",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -240,7 +250,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
@@ -261,7 +271,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "fd98c6b705a52f91",
+  "active": "0a5a99168715f78c",
   "lastOpenFiles": [
     "01 - Math/02 - Factors & Divisibility/01 - Monomials & Polynomials & GCF.jpg",
     "01 - Math/01 - Functions and Graphs/06 - Piecewise Functions Graphs.jpg",
