@@ -253,6 +253,16 @@
             "id": "4ffd12b53d0f6e01",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "655aa81922c2fe48",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -260,7 +270,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "horizontal",
@@ -281,8 +291,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "4ffd12b53d0f6e01",
+  "active": "655aa81922c2fe48",
   "lastOpenFiles": [
+    "05 - C++/C++ Topics to Learn.md",
     "01 - Math/02 - Factors & Divisibility/01 - Monomials & Polynomials & GCF.jpg",
     "01 - Math/01 - Functions and Graphs/06 - Piecewise Functions Graphs.jpg",
     "01 - Math/Topics to Focus on Spivak's Calculus Book.md",
@@ -302,7 +313,6 @@
     "01 - Math/Krita/New folder",
     "Krita",
     "01 - Math/New folder",
-    "05 - C++/C++ Topics to Learn.md",
     "01 - Math/Evaluating Functions.md",
     "01 - Math/01 -Hand Written Notes/Evaluating Functions.xopp",
     "01 - Math/Untitled.canvas",
