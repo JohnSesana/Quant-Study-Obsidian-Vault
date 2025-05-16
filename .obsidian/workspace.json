@@ -263,6 +263,16 @@
             "id": "655aa81922c2fe48",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "bcee939e8cefb75b",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -270,7 +280,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "horizontal",
@@ -291,7 +301,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "655aa81922c2fe48",
+  "active": "bcee939e8cefb75b",
   "lastOpenFiles": [
     "05 - C++/C++ Topics to Learn.md",
     "01 - Math/02 - Factors & Divisibility/01 - Monomials & Polynomials & GCF.jpg",
